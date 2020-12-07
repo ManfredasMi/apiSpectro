@@ -1,0 +1,23 @@
+{
+  "name": "apispectro",
+  "version": "1.0.0",
+  "description": "api endpoint test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManfredasMi/apiSpectro.git"
+  },
+  "author": "MM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManfredasMi/apiSpectro/issues"
+  },
+  "homepage": "https://github.com/ManfredasMi/apiSpectro#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jasmine": "^3.6.3"
+  }
+}
